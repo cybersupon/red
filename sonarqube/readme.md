@@ -1,4 +1,4 @@
-# README: SonarQube Deployment Script
+# SonarQube Deployment Script
 
 ## Overview
 
